@@ -13,15 +13,22 @@ const Mehran = {
   location: "Sanandaj, Kurdistan, Iran",
   profession: "Front-end Developer",
   skills: ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
-  social: {
-    instagram: "https://www.instagram.com/vitto_mehran81",
-    telegram: "https://t.me/yourusername"
-  },
   goals: "Becoming a professional Front-end Developer ready for remote work"
 };
 ```
-‍‍
 ---
+## Social
+
+  <a href="https://www.instagram.com/vitto_mehran81/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Mehranf81822">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:mhranf501@gmail.com?subject=Feedback&body=Message">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 
 ## 🚀 Skills & Tools  
 
@@ -36,7 +43,7 @@ const Mehran = {
 ### Skill Progress
 - HTML: ██████████ 90%  
 - CSS: █████████ 90%  
-- JavaScript: ████████ 75%   
+- JavaScript: ████████ 60%   
 - Git/GitHub: ███████ 70%  
 
 ---
