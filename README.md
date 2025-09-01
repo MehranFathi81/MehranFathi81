@@ -17,7 +17,7 @@ const Mehran = {
 };
 ```
 ---
-## Social
+## Social + Email
 
   <a href="https://www.instagram.com/vitto_mehran81/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
