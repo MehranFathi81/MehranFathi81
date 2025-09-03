@@ -40,12 +40,6 @@ const Mehran = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Skill Progress
-- HTML: ██████████ 90%  
-- CSS: █████████ 90%  
-- JavaScript: ████████ 60%   
-- Git/GitHub: ███████ 70%  
-
 ---
 
 ## 🛠️ Featured Projects  
