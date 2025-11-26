@@ -19,9 +19,6 @@ const Mehran = {
 ---
 ## Social + Email
 
-  <a href="https://www.instagram.com/mehranf81822/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://t.me/Mehranf81822">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
@@ -33,20 +30,23 @@ const Mehran = {
 ## 🚀 Skills & Tools  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Regex" src="https://img.shields.io/badge/Regex-%23FF69B4.svg?style=for-the-badge&logo=regex&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Featured Projects  
+## ⚡ Featured Projects
 
-### 📌 Todo List (Drag & Drop)  
-A static Todo List app with drag & drop, light/dark mode, toast messages, and modal.  
-👉 [Live Demo](https://mehranfathi81.github.io/todo-drag-drop) | [Source Code](https://github.com/mehranfathi81/todo-drag-drop)
+### Library-CRUD
+
+A fully interactive personal library web application with user authentication, CRUD operations for books, dashboard cards, filters, modals, and toast messages. Built using HTML, CSS, and Vanilla JavaScript with fetch API connected to JSONBin.io.
+
+[Live Demo](https://mehranfathi81.github.io/Library-CRUD) | [Source Code](https://github.com/MehranFathi81/Library-CRUD)
 
 ---
 
