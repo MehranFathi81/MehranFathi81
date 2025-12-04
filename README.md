@@ -51,6 +51,11 @@ A fully interactive personal library web application with user authentication, C
 
 [Live Demo](https://mehranfathi81.github.io/Library-CRUD) | [Source Code](https://github.com/MehranFathi81/Library-CRUD)
 
+### JavaScript Libraries Reference
+
+A personal repository documenting **various JavaScript libraries**, with brief descriptions and links to official documentation.
+
+[View Repository](https://github.com/MehranFathi81/javascript-libraries-reference)
 ---
 
 ## 📊 GitHub Stats  
