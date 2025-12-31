@@ -36,6 +36,7 @@ const Mehran = {
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Git](https://skillicons.dev/icons?i=git)
