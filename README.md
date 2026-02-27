@@ -64,12 +64,6 @@ Source Code: [JavaScript Libraries Reference](https://github.com/MehranFathi81/j
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehranfathi81&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehranfathi81&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehranfathi81&theme=github-dark)
 ---
 
